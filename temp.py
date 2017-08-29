@@ -7,5 +7,5 @@ plt.ylabel('numero de primos)
 #Con esta isntruccion guardamos la imagen con el formato que queramos.
 plt.savefig('temp.png')
 #Con esta instruccion mostramos la figura. 
-plt.show()
+plt.show(grafica)
 
